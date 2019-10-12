@@ -59,7 +59,7 @@ I want to be able to select a mood as response
 
  As a user  
 when I select a mood as response    
-I want to be bot to suggest options to help with my current mood` 
+I want to be bot to suggest options to help with my current mood
 
  As a user   
 when I select view piechart option     
@@ -75,4 +75,4 @@ I want to be able to see random memes
 
  As a user     
 when I select view Chuck Noris Fact option      
-I want to be able to see random Chuck Noris Facts```  
+I want to be able to see random Chuck Noris Facts
